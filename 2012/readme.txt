@@ -1,4 +1,5 @@
 2012 Michigan Precinct-Level General Election Results files
+Updated 07/12/2019
 
 The file 2012XXX.zip unzips into five files: 2012name.txt, 2012offc.txt,
 2012vote.txt, 2012city.txt & county.txt. Once unzipped these files will 
